@@ -1,5 +1,5 @@
-# teamform-seed
-## The seed project for the team forming web application
+# COMP3111H-teamform
+## The course project for COMP3111H Honors Software Engineering.
 
 ### Pre-requisites
 
@@ -89,22 +89,3 @@ npm test
 This script will start the Karma test runner to execute the unit tests. 
 In this course, we will mainly focus on the branch and statement coverage. 
 The output files will be stored inside the `app/coverage` folder. 
-
-## Addtional information for COMP3111H students
-
-Besides from web development, COMP3111H team needs to work on a mobile app (iOS and Android). We recommend your team to use Ionic framework [http://ionicframework.com/] (http://ionicframework.com/). Ionic framework is based on AngularJS. Features completed in Angular can be easily ported to Ionic.   
-
-## Reference
-
-For more information, please checkout:
-
-* Full Firebase 3.0+ API: https://firebase.google.com/docs/reference/
-* Full AngularFire 2.0+ API: https://github.com/firebase/angularfire/blob/master/docs/reference.md
-* Angular JS: http://angularjs.org/
-* git: http://git-scm.com/
-* npm: https://www.npmjs.org/
-* node: http://nodejs.org
-* jasmine: http://jasmine.github.io
-* karma: http://karma-runner.github.io
-* http-server: https://github.com/nodeapps/http-server
-* ionic framework (for COMP3111H teams): http://ionicframework.com/
